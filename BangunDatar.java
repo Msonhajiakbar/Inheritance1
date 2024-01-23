@@ -9,7 +9,6 @@ public class BangunDatar {  //PARENT CLASS // INDUK
     double luas(){
         
         System.out.println("Menghitung luas Bangun datar");
-        System.out.println("Apalo");
         return 0;
     }
     double keliling(){
